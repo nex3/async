@@ -1,6 +1,8 @@
-## 2.11.0-dev
+## 2.11.0
 
 * Add `CancelableOperation.fromValue`.
+
+* Add `FutureGroup.addCancelable`.
 
 ## 2.10.0
 
